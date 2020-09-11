@@ -19,3 +19,4 @@ Thank you for visiting my GitHub today. Please take a look around or check out m
   
   console.log("Congrats! You did it! Here some new things to learn!");
 ```
+*Computer show the blue screen of death*
