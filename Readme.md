@@ -44,11 +44,10 @@ Thank you for visiting my GitHub today. Please take a look around or check out m
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"  />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  />
-<div/>
+</div>
   
 ### Unit-Testing
-
-Jest, Enzyme, Jasmin, Karma
+<div>Jest, Enzyme, Jasmin, Karma</div>
 
 ### Tools
 <div>
