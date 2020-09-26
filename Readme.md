@@ -22,6 +22,7 @@ Thank you for visiting my GitHub today. Please take a look around or check out m
 
 ## Languages and Tools:
 ### Front-end:
+<div>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"  />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
@@ -32,9 +33,10 @@ Thank you for visiting my GitHub today. Please take a look around or check out m
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  />
 <img align="left" alt="Flutter" width="26px" src="https://www.iconfinder.com/data/icons/logos-brands-5/24/flutter-512.png"  />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"  /> <br/>
+</div>
 ### Back-end:
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"  />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"  />
 <img align="left" alt="C#" width="26px" src="https://en.wikipedia.org/wiki/File:C_Sharp_logo.svg#/media/File:C_Sharp_logo.svg"  />
-<img align="left" alt="Golang" width="26px" src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg"  />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"  />
