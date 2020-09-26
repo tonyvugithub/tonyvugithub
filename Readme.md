@@ -7,7 +7,7 @@ Thank you for visiting my GitHub today. Please take a look around or check out m
   let superDeveloper = false;
   let hours = 0;
   
-  while (!superDeveloper && hours < 10000) {
+  while (!superDeveloper) {
       practiceCoding();
       practiceDesigning();
       practiceDeveloping();
